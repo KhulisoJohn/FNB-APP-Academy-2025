@@ -12,15 +12,15 @@ This repository serves as a personal archive and demonstration of all the work c
 
 ## 📂 Folder Structure
 
-├── Week1/ # HTML & CSS Fundamentals
-├── Week2/ # Responsive Design & Bootstrap
-├── Week3/ # JavaScript Basics
-├── Week4/ # DOM Manipulation & Events
-├── Week5/ # APIs & Fetching Data
-├── Week6/ # Frontend Project (Mini App)
-├── Week7/ # Python & Backend Intro
-├── Week8/ # Backend Integration Project
-├── Week9/ # Final Capstone App
+- Week1/ # HTML Fundamentals
+-  Week2/ # Responsive Design & CSS
+- Week3/ # Pine City Zoo Mini Project
+- Week4/ # Javascript Basics
+- Week5/ # Calculator App Mini Project
+- Week6/ # Contact Book App (Mini Project)
+- Week7/ # Python Basic
+- Week8/ # Data Structure & Shorping Cart (Mini Project)
+- Week9/ # Function and modules / Exceptional Handling
 
 
 
@@ -29,7 +29,7 @@ Each folder contains:
 - 📄 Project files for that week
 - 📚 Notes and learning material
 - ✅ Challenges and completed tasks
-- 🎯 Weekly reflections or retrospective (if available)
+
 
 ---
 
