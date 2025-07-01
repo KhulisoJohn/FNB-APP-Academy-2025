@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+}
+
+body {
+    width: 100%;
+    font-family: sans-serif;
+}
+
+#navbar {
+    height: 100px;
+    width: 100%;
+    position:fixed;
+    padding-top: 40px;
+    text-align: center;
+    background-color: aqua;
+}
+
+#navbar a{
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0 30px;
+    color: coral;
+    font-size: 20px;
+
+}
+
+#navbar a:hover {
+    color: aliceblue;
+}
+
+/* Home page styling */
+
+#container1 {
+    color: aliceblue;
+    background-color: black;
+    padding-top: 100px;
+    
+}
+.heading {
+    padding-top: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    text-transform: uppercase;
+
+}
+
+.para1 {
+    padding: 30px 0;
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+.img1 {
+    width: 100%;
+}
+
+#container2 {
+    width: 100%;
+    display: flex;
+    margin: 40px 0;
+
+}
+
+#container2 .content {
+    color: gray;
+    max-width: 70%;
+}
+
+#container2 .content h2 {
+    text-transform: uppercase;
+    color: aqua;
+    margin-bottom: 20px;
+}
+
+#container2 .content h3 {
+    text-transform: uppercase;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+#container2 .links {
+    max-width: 30%;
+    color: aqua;
+    margin-top: 0px;
+}
+
+#container2 .links h2 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+
+}
+
+#container2 .links ul {
+    list-style-image: url('images/pointer-icon.png');
+    line-height: 20px;
+}
+#container .links ul li {
+   padding-top: 20px;
+}
+#container2 .links ul li a {
+    color: aqua;
+    text-decoration: none;
+
+    
+}
+
+footer {
+    background-color: black;
+    color: gray;
+    padding-top: 2opx;
+}
+
+footer .footer-container1 {
+    display: flex;
+}
