@@ -36,7 +36,6 @@ Each folder contains:
 ## 🛠️ Technologies Used
 
 - **HTML5 & CSS3**
-- **Bootstrap**
 - **JavaScript (ES6+)**
 - **Python (Flask/Django basics)**
 - **REST APIs**
@@ -70,8 +69,8 @@ Special thanks to:
 For collaboration, questions, or networking:
 
 - **Name:** Khuliso John  
-- **Twitter:** [@Khulysojohn](https://twitter.com/Khulysojohn)  
-- **Email:** [khuliso.thavhiwa@techbridlefoundation.org](mailto:khuliso.thavhiwa@techbridlefoundation.org)
+- **Twitter:** [@Khulysojohn](https://twitter.com/@khulyso10)  
+- **Email:** [khulysojohn@gmail.com](mailto:khulysojohn@gmail.com)
 
 ---
 
