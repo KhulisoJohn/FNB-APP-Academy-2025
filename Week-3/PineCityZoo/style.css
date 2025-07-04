@@ -35,7 +35,7 @@ body{
 #tabs-top a{
       float   : left;
       display : block;
-      width   : 33%;
+      width: 24.5%;
       height  :35px;
       font-weight : 700;
       color       : white;
@@ -43,8 +43,11 @@ body{
       text-decoration : none;
       padding-top     : 12px;  
 }
+
+
 #main-home{
        margin-top: 120px;
+       width: 100%;
 }
 
 #tabs-bottom{
@@ -72,7 +75,10 @@ body{
 #main{
     margin-top: 119px;
     background: url('images/map-blur.png');
-    background-repeat: repeat-y;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #content{
