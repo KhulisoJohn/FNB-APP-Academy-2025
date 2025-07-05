@@ -132,13 +132,13 @@ a.info-box{
 
 
 
-#info-box-full img{
+.info-box-full img{
       width : 100%;
 }
 
 
 
-#info-box-full h3{
+.info-box-full h3{
       text-align : center;
 }
 
@@ -155,20 +155,29 @@ h1.info-box-weather-icon{
      padding    : 0;
      margin     : 0;
 }
-input{
+
+
+form {
+      width: 90%;
+      
+}
+
+ form input{
       width: 100%;
       height: 25px;
       margin : 12px 0;
       border : 1px solid #929292;
 }
 
-textarea{
+form textarea{
       width: 100%;
-      height :25px;
+      height :250px;
       margin : 12px 0;
       border : 1px solid #929292;
 }
-
+ table th, table td {
+        border-bottom: 1px solid #ccc;
+ }
 .button{
       display : block;
       background-color: forestgreen;
